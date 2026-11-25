@@ -28,6 +28,10 @@ Font: Bricolage Grotesque (Google Fonts).
 
 Download `index.html` and open it in any browser.
 
+## AI disclosure
+
+The initial code was generated with AI assistance (Claude by Anthropic) and then reviewed, tested and customised by the author.
+
 ## Author
 
-YOUR NAME - Aryan Goplani 
+YOUR NAME · your-email@example.com
